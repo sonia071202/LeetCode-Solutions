@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0424-longest-repeating-character-replacement](https://github.com/sonia071202/LeetCode-Solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0904-fruit-into-baskets](https://github.com/sonia071202/LeetCode-Solutions/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/sonia071202/LeetCode-Solutions/tree/master/1004-max-consecutive-ones-iii) |
 ## Prefix Sum
@@ -24,5 +25,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0424-longest-repeating-character-replacement](https://github.com/sonia071202/LeetCode-Solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0904-fruit-into-baskets](https://github.com/sonia071202/LeetCode-Solutions/tree/master/0904-fruit-into-baskets) |
+## String
+|  |
+| ------- |
+| [0424-longest-repeating-character-replacement](https://github.com/sonia071202/LeetCode-Solutions/tree/master/0424-longest-repeating-character-replacement) |
 <!---LeetCode Topics End-->
