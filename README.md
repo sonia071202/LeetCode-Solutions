@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/sonia071202/LeetCode-Solutions/tree/master/0001-two-sum) |
 | [0053-maximum-subarray](https://github.com/sonia071202/LeetCode-Solutions/tree/master/0053-maximum-subarray) |
 | [0152-maximum-product-subarray](https://github.com/sonia071202/LeetCode-Solutions/tree/master/0152-maximum-product-subarray) |
+| [0169-majority-element](https://github.com/sonia071202/LeetCode-Solutions/tree/master/0169-majority-element) |
 | [0904-fruit-into-baskets](https://github.com/sonia071202/LeetCode-Solutions/tree/master/0904-fruit-into-baskets) |
 | [0912-sort-an-array](https://github.com/sonia071202/LeetCode-Solutions/tree/master/0912-sort-an-array) |
 | [0930-binary-subarrays-with-sum](https://github.com/sonia071202/LeetCode-Solutions/tree/master/0930-binary-subarrays-with-sum) |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/sonia071202/LeetCode-Solutions/tree/master/0001-two-sum) |
 | [0076-minimum-window-substring](https://github.com/sonia071202/LeetCode-Solutions/tree/master/0076-minimum-window-substring) |
+| [0169-majority-element](https://github.com/sonia071202/LeetCode-Solutions/tree/master/0169-majority-element) |
 | [0424-longest-repeating-character-replacement](https://github.com/sonia071202/LeetCode-Solutions/tree/master/0424-longest-repeating-character-replacement) |
 | [0904-fruit-into-baskets](https://github.com/sonia071202/LeetCode-Solutions/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/sonia071202/LeetCode-Solutions/tree/master/0930-binary-subarrays-with-sum) |
@@ -61,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/sonia071202/LeetCode-Solutions/tree/master/0169-majority-element) |
 | [0992-subarrays-with-k-different-integers](https://github.com/sonia071202/LeetCode-Solutions/tree/master/0992-subarrays-with-k-different-integers) |
 ## Tree
 |  |
@@ -117,12 +120,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/sonia071202/LeetCode-Solutions/tree/master/0169-majority-element) |
 | [0912-sort-an-array](https://github.com/sonia071202/LeetCode-Solutions/tree/master/0912-sort-an-array) |
 | [0987-vertical-order-traversal-of-a-binary-tree](https://github.com/sonia071202/LeetCode-Solutions/tree/master/0987-vertical-order-traversal-of-a-binary-tree) |
 ## Divide and Conquer
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/sonia071202/LeetCode-Solutions/tree/master/0053-maximum-subarray) |
+| [0169-majority-element](https://github.com/sonia071202/LeetCode-Solutions/tree/master/0169-majority-element) |
 | [0912-sort-an-array](https://github.com/sonia071202/LeetCode-Solutions/tree/master/0912-sort-an-array) |
 ## Heap (Priority Queue)
 |  |
@@ -144,4 +149,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0912-sort-an-array](https://github.com/sonia071202/LeetCode-Solutions/tree/master/0912-sort-an-array) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/sonia071202/LeetCode-Solutions/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
